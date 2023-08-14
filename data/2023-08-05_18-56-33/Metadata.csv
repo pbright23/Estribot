@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs
+3,iPhone SE (2nd generation),1691261793391,2023-08-05_18-56-33,America/Bogota,ios,1.18,09da9383-05e4-4460-91c5-885e77cc914f,Accelerometer|Gyroscope|Orientation|Location|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10|10|0||10|10
