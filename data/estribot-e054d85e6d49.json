@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "estribot",
+  "private_key_id": "e054d85e6d49e083fe80bebfd2d2f25c72e1ac61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWxFr/QjQJjyvC\n9JOXXPYA3kaId5rwmKuYZkT3Co6qgpAW6ec0I1BgBxitNqLMQ6uZ5H4p8oa3vfl0\nl4HsqYAkIX+5uEWUg6wuDEQrwtGabO3a69b7i6YbdpX6g4BBULvkHyhC/3wTJW0+\nAx9DcCU2263noNTZMXejjgIVNUiL6GeeKRJEuFFDPxo/OC5Ug6ZHB1BCIBEn4bqe\nq80w3wIAXgnq9WSH3Z8hr9f2C6Yr1cuPqJGaLYGpKo25pKNSFhHhq9D9gCEKglPR\ney9s5ddU9uDz0O25nXPTfq7jQ1xUI0Rv5kea7dyGVfBnFQUEVWfwMuBTSPgKkUG6\nwpP147/LAgMBAAECggEAFig6VVxF6Ie9fzPRgwO69aq1A/ZL84MEaOvSw9mt2NpC\nUdPDUlLES7CPTFmEuG9Th1Tgw8psSRGm2R8xDXZlqimwKzutIiPtyICt/h5uDntm\nw284k5RU76FQblYoIbE7Q83ebWY9tlSgRuZPkGopVfQYDTwCO/88nXFP1g0UIddm\nprabvuhaOWmNQya5WtqaGnCkRIDE4Ur0v7AVLxKNWVQ9yTgHtBfb2sxw5Z6z2dTU\nxuXR1UPDp09IcRxhglQsdruRpwy+tm2UCdUL/pR2yz6OLX1TE4iCQT6FzOfrN64L\nEvFYFLUJ+cEwx7Q1JCdzN+1HlYJWQPYE8Vn2v/mzSQKBgQDLoE+h/LWRX4glFH11\nN37BMKCL43iOkWY5UswxuR6nCEE2Jv/as2u0UbGrCiO+dTaY7+f52UVKUX55x9Gw\nXoU6NwGPY3CvfiS2N/DCjqK49j6oqTtj3eC1Aap3QCK9iaq/Vbhrcg3ZsNeGDwum\nrD1FM6Euyg9+CZc3sFWl6/FvIwKBgQC9i40CrjTEwoJ1aEmqz8D441ldkeKgPE1+\ns3irIdqGYGhxVFtdyNCYOdZygUDQbcoRSY12CQchWJPbernocmy2k+YdwZmYuMkX\nLTNbB6/3ABL9pICa/hothC7aIfIJWGXrvTukDJCS0gHqlErkGHlTrDI7rNEGj7N8\nkzSyxK6LOQKBgFyqF5Mf7YC6eLpnGLC/EG/aMTV3zuUSRfLQOxxlog1hNEvwc36T\nJ/BnPPMZKisCLFZs1qRcu6uWangA9uvMF9TmM0+NcTprrUk/K9FeF68UYG9glCZe\nUmQM3gZmqWiXvZxU5hf/T05Bq9LWBfdTao6TcEZarbItqyMsm81mEfkBAoGAdvhT\njr4nUuS/m8/UhUkXV2Dj465Ar9CJ15/weoGqNrPmelO3cVstSo7rAj4Mn4Z50XX4\nO4EZH54IWDdk3viLMeINCtpMfSZm2Yw+csGVehRq1xdcvWwGpFEWU0YBNEpu1pOV\nDrfwOqdkGofvpdGSvakUco5bOKITx3piFl8LK0kCgYAyN4w6Bg0pALTgtepe8LE6\nuAaRT6TPLfl0UVK+Op2PM+6g0i2UNiat4FbK2FtD7BkN0xovZvTGQjeFhE9F+A8j\nJMQrCgxkM5rq2BaOwL68wXe5qFa4lQQAD/T7xIEJS/mAQto9CbTarZzVSMwpyGsv\n2ePc/PiKZh+YFLlzRZPlzg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-module-estribot@estribot.iam.gserviceaccount.com",
+  "client_id": "116425703569796389213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-module-estribot%40estribot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
